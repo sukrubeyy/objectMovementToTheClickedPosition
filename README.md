@@ -9,3 +9,5 @@ movement{
   mousePOS=Camera.Main.ScreenToWorldPoint(Input.mouseposition);
   rb.position=Vector3.Lerp(rb.position,mousePos,.5f);
 }
+
+This project made with Unity.
